@@ -10,6 +10,6 @@ public class MainController {
 
     @GetMapping("")
     public String sayHello(){
-        return "Hello World, soy el puto amo ";
+        return "Hello World, soy el puto amo y Xavi también, aunque un poco menos ";
     }
 }
